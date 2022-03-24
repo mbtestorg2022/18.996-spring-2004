@@ -101,9 +101,9 @@ Multiuser Receivers, Random Matrices, and Free Probability ([PDF](http://www.eec
   
 [Asymptotic Eigenvalue Moments for Linear Multiuser Detection](http://citeseer.ist.psu.edu/li01asymptotic.html) - Verdu  
   
-Statistical Analysis of the Capacity of MIMO Frequency Selective Reyleigh Fading Channels (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://pdfs.semanticscholar.org/cfbf/48a5c3da40bbafc669c752baddf96c7ce90b.pdf)) - Scaglione  
+Statistical Analysis of the Capacity of MIMO Frequency Selective Reyleigh Fading Channels ([PDF](https://pdfs.semanticscholar.org/cfbf/48a5c3da40bbafc669c752baddf96c7ce90b.pdf)) - Scaglione  
   
-The Statistics of the MIMO Frequency Selective Fading AWGN Channel Capacity (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://pdfs.semanticscholar.org/c807/ae32f07b4a00bff549c940529816ef8cb188.pdf)) - Scaglione  
+The Statistics of the MIMO Frequency Selective Fading AWGN Channel Capacity ([PDF](https://pdfs.semanticscholar.org/c807/ae32f07b4a00bff549c940529816ef8cb188.pdf)) - Scaglione  
   
 [Capacity of Multi-antenna Gaussian Channels](https://dx.doi.org/10.1002/ett.4460100604) - Telatar  
   
